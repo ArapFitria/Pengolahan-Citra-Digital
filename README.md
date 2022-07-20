@@ -1,5 +1,6 @@
 # Pengolahan-Citra-Digital
-file tubes1.py diatas merupakan tugas besar Pengolahan Citra Digital 
+file tubes1.py diatas merupakan tugas besar Pengolahan Citra Digital
+DETECTON COLOR
 
 Nama Anggota :
 1. Annisa Aulia Arafah    (1202190038)
